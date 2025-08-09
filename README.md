@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Jianzhi Zhao 👋
 
-<!--
-**jnz106/jnz106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer | Founder of [PassportPhoto.online](https://passportphoto.online) | ML & Autonomous Robotics Software Developer | Student**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Currently working on projects involving **Python**, **PHP**, and the field of **Intelligent Autonomous Robotics**.
+- 🌟 Fullstack developer with hands-on experience in scalable PHP applications
+- 🏆 Featured projects:
+  - [passportphoto.online](https://passportphoto.online) - 60K monthly users
+  - [aiplusrobot](https://aiplusrobot.com) *(WIP)*
+
+---
+
+## 🌐 Connect with Me
+
+- [LinkedIn: Jianzhi Zhao](https://www.linkedin.com/in/jianzhi-zhao-66a591355/)
+
+---
+
+## ⚡ Fun Facts
+
+- I run a 2-4x per week UL split in the gym
+- I play football both casually and competitively
+- I am passionate about photography & videography
+
+---
+
+## 🛠️ Top Skills
+
+- Python  
+- PHP (LAMP)  
+- Bootstrap  
+- Intelligent Autonomous Robotics  
+- Machine Learning & Computer Vision
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-theta-mauve.vercel.app/api?username=jnz106&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats-theta-mauve.vercel.app/api/top-langs/?username=jnz106&layout=compact&theme=transparent)
+
