@@ -1,6 +1,6 @@
 # Hi, I'm Jianzhi Zhao 👋
 
-**Full-Stack Developer | Founder of [PassportPhoto.online](https://passportphoto.online) | ML & Autonomous Robotics Software Developer | Student**
+**Full-Stack Developer | Fullstack Developer at [PassportPhoto.online](https://passportphoto.online) | ML & Autonomous Robotics Software Developer | Student**
 
 ---
 
