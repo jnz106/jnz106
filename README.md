@@ -9,7 +9,7 @@
 - 💻 Currently working on projects involving **Python**, **PHP**, and the field of **Intelligent Autonomous Robotics**.
 - 🌟 Fullstack developer with hands-on experience in scalable PHP applications
 - 🏆 Featured projects:
-  - [passportphoto.online](https://passportphoto.online) - 60K monthly users
+  - [passportphoto.online](https://passportphoto.online) 
   - [aiplusrobot](https://aiplusrobot.com) *(WIP)*
 
 ---
@@ -17,14 +17,6 @@
 ## 🌐 Connect with Me
 
 - [LinkedIn: Jianzhi Zhao](https://www.linkedin.com/in/jianzhi-zhao-66a591355/)
-
----
-
-## ⚡ Fun Facts
-
-- I run a 2-4x per week UL split in the gym
-- I play football both casually and competitively
-- I am passionate about photography & videography
 
 ---
 
