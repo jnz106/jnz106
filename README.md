@@ -9,8 +9,8 @@
 - 💻 Currently working on projects involving **Python**, **PHP**, and the field of **Intelligent Autonomous Robotics**.
 - 🌟 Fullstack developer with hands-on experience in scalable PHP applications
 - 🏆 Featured projects:
-  - [passportphoto.online](https://passportphoto.online) 
-  - [aiplusrobot](https://aiplusrobot.com) *(WIP)*
+  - [passportphoto.online(2022-present)](https://passportphoto.online) 
+  - [aiplusrobot(2024-present)](https://aiplusrobot.com) *(WIP)*
 
 ---
 
